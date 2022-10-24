@@ -1,4 +1,4 @@
-module hduHelpServiceSDK
+module github.com/NX-Official/hduHelpServiceSDK
 
 go 1.19
 
