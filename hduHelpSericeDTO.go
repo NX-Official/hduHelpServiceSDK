@@ -1,4 +1,4 @@
-package hduHelpService
+package hduHelpServiceSDK
 
 type HduhelpBaseResponse struct {
 	Cache bool   `json:"cache"`

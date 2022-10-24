@@ -1,4 +1,4 @@
-package hduHelpService
+package hduHelpServiceSDK
 
 import (
 	"errors"
